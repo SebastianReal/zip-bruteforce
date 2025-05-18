@@ -11,3 +11,7 @@ The script iterates through each password in a given wordlist and attempts to ex
 1. Clone this repository  
 2. Place your `.zip` and `.txt` files in the root directory  
 3. Run the script
+
+## Disclaimer
+
+This script is intended for educational and ethical use only. Do not use it for unauthorized access to systems or files.
